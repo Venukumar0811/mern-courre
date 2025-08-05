@@ -37,7 +37,7 @@ This project helped me strengthen my full-stack development skills:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your_username/mern-course.git
+   git clone https://github.com/Venukumar0811/mern-course.git
    ```
 
 2. **Install Backend Dependencies**
